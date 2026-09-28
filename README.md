@@ -55,3 +55,17 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<br/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=andrewfelipao2002-gif&theme=radical)
+
+![Snake animation](https://raw.githubusercontent.com/andrewfelipao2002-gif/andrewfelipao2002-gif/output/github-contribution-grid-snake-dark.svg)
+
+</div>
